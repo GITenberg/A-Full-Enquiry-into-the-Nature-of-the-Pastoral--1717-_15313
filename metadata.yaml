@@ -1,0 +1,35 @@
+_repo: A-Full-Enquiry-into-the-Nature-of-the-Pastoral--1717-_15313
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Wasserman, Earl R. (Earl Reeves)
+    alias: Wasserman, Earl Reeves
+    birthdate: 1913
+    deathdate: 1973
+    gutenberg_agent_id: '39161'
+    url: http://www.gutenberg.org/2009/agents/39161
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Purney, Thomas
+    alias: Purney, T. (Thomas)
+    birthdate: 1695
+    gutenberg_agent_id: '5995'
+    url: http://www.gutenberg.org/2009/agents/5995
+description: ''
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15313'
+  lccn: '50001177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pastoral poetry'
+- !lcc 'PN'
+title: A Full Enquiry into the Nature of the Pastoral (1717)
+url: http://www.gutenberg.org/ebooks/15313
