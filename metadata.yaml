@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '5995'
     url: http://www.gutenberg.org/2009/agents/5995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15313#A-Full-Enquiry-into-the-Nature-of-the-Pastoral--1717-
 gutenberg_issued: '2005-03-10'
 gutenberg_type: Text
 identifiers:
